@@ -8,8 +8,8 @@ Me chamo Jhordan, prazer, faço umas peripécias aí pelo discord, sites entre o
 
 ### 📌 Meus sites
 [Meu site pessoal](https://eu.kknifu.com) - Meu site pessoal ue kk<br>
-[AppMarket](https://appmarket.vercel.app) - Site para baixar aplicativos e jogos<br>
-[Foooly](https://foooly.com) - Site do meu bot
+[AppMarket](https://appmarket.net.br) - Site para baixar aplicativos e jogos<br>
+[Foooly](https://foooly.com) - Site de músicas
 
 ### ⭐ Linguagens que sei mexer
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](#)
